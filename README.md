@@ -5,9 +5,9 @@
 ### Aim
 *Clean up scraped web data to allow easy operations during analysis.
 *Some problems that had to be solved during cleanup include:
->Missing data
->Wrong datatypes
->Data in the wrong form e.g. Text instead of numbers
+Missing data
+Wrong datatypes
+Data in the wrong form e.g. Text instead of numbers
 
 *Carry out analysis to discover hidden trends that could be used in making business decisions.
 
